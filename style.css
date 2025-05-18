@@ -1,0 +1,16 @@
+body {
+    font: 16px/26px 'Raleway bold', sans-serif;
+    background-color: rgb(47, 255, 227);
+}
+
+h2 {
+    color: blue;
+}
+
+ol.border {
+    border: 10px solid violet;
+}
+
+p {
+    font-weight: 700;
+}
